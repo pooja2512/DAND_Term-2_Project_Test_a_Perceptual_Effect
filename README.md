@@ -1,4 +1,4 @@
-# DAND_term2_project_test_a_perceptual_phenomenon
+# DAND_Term2_Project_Test_a_Perceptual_Phenomenon
 
 Test a Perceptual Phenomenon Project was completed under certification of [Udacity Nanodegree Program](https://in.udacity.com/)
 
